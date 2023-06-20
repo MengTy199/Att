@@ -83,9 +83,5 @@ namespace AttendanceManagementSystem.Features
         {
             return Employees!;
         }
-        public List<Employee> GetAllEmployee(bool isSimpleVersion)
-        {
-            return Employees!;
-        }
     }
 }
